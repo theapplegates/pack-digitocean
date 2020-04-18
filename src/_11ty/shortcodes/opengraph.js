@@ -6,7 +6,7 @@ module.exports = {
       ? getShareImage({
           imageWidth: 1200,
           imageHeight: 630,
-          cloudName: 'nho',
+          cloudName: 'paulportfolio',
           imagePublicID: 'resources/opengraph-background',
           titleFont: 'Noto Serif',
           textAreaWidth: 1100,
